@@ -1,3 +1,2 @@
-# SteamScaner
-Application for scaning Steam accounts using Steam API
-"# LAB6" 
+# lab 6, Maksiuta A.V.
+Nuff said... Celestia akbar!
