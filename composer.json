@@ -1,0 +1,18 @@
+{
+    "name": "amk/web-labs",
+    "description": "Web-labs of AMK",
+    "require": {
+        "twig/twig": "^1.26"
+    },
+    "authors": [
+        {
+            "name": "AM",
+            "email": "bismark9988@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "AMKWebLab\\": "amkcore/" 
+        }
+    }
+}
